@@ -29,6 +29,8 @@ It showcases modern Lakehouse engineering practices using PySpark and Delta Lake
 ## Architecture
 
 ### **Medallion Architecture**
+<img width="1099" height="885" alt="image" src="https://github.com/user-attachments/assets/3c46f1ec-ffbf-43cf-947d-40fe814f80ea" />
+
 
 #### **1. Bronze Layer — Raw Ingestion**
 - Ingests raw sales and customer datasets  
