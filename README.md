@@ -54,6 +54,7 @@ It showcases modern Lakehouse engineering practices using PySpark and Delta Lake
 - Uses decorators, expectations, and modular pipeline design  
 - Orchestrated on **Databricks Serverless** for efficient autoscaling  
 - Integrated with **Unity Catalog** for governance, permissions, and schema control  
+<img width="1421" height="490" alt="image" src="https://github.com/user-attachments/assets/d7272588-844e-413e-8fe2-30753592e252" />
 
 ---
 
