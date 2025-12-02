@@ -62,7 +62,10 @@ A Databricks SQL dashboard is built on the `gold_aggregates` table, providing:
 - **Top Performing Products**  
 - **Customer Segmentation Insights**  
 - **Monthly / Quarterly Performance Metrics**  
-- **Operational KPIs**  
+- **Operational KPIs**
+
+<img width="1549" height="900" alt="image" src="https://github.com/user-attachments/assets/029bd0b1-cf8e-45d0-92a6-1f1f3cbc9e8d" />
+
 
 This dashboard enables stakeholders to quickly view clean, trusted insights derived from the curated Gold layer.
 
